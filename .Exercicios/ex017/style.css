@@ -1,0 +1,47 @@
+@charset "UTF-8";
+ 
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+    font-size: 1.1em;
+  
+}
+
+body{
+    background-image:linear-gradient( to right,#007566,#8FC1B5) ;
+}
+
+
+
+
+p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: serif;
+}
+
+/*
+medidas absolutas
+cm,mm,in,pt,px,pc
+
+medidas relativas
+em,ex,rem,vh,vh,vw,%
+
+um em e igual a 16px 
+________________________
+font-reight=peso da da fonte
+*/
+/* shorthand font
+
+-font-style-> font-reight->font-size-> font-family*/
